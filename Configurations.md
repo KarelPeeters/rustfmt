@@ -1666,7 +1666,7 @@ Maximum width of each line
 - **Possible values**: any positive integer
 - **Stable**: Yes
 
-See also [`error_on_line_overflow`](#error_on_line_overflow).
+See also [`error_on_line_overflow`](#error_on_line_overflow) and [`use_small_heuristics`](#use_small_heuristics).
 
 ## `merge_derives`
 
